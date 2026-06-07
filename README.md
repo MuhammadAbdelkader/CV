@@ -1,8 +1,8 @@
 # Mohamed Abdelkader — CV
 
-> **Full Stack Developer | MEAN Stack Specialist | Computer Science Student**
+> **Software Engineer | Full Stack & DevOps Explorer**
 
-This repository hosts my official curriculum vitae, maintained and updated regularly.
+This repository hosts my official curriculum vitae, maintained and updated regularly to reflect my latest skills, projects, and professional experience.
 
 ## 📄 View My CV
 
@@ -10,9 +10,9 @@ This repository hosts my official curriculum vitae, maintained and updated regul
 
 ## 👨‍💻 About Me
 
-Full Stack Developer specializing in the MEAN stack (MongoDB, Express.js, Angular, Node.js) with a strong focus on building scalable, production-ready web applications. Currently pursuing my degree in Computer Science and AI at the Faculty of Computer Science and AI, Department of Information Systems.
+I am an adaptable Software Engineer with a strong engineering mindset, specializing in the MEAN stack (MongoDB, Express.js, Angular, Node.js). I focus on building scalable, high-availability web applications and am currently expanding my expertise in Cloud Operations and DevOps pipelines (via the DEPI track).
 
-I combine academic knowledge with hands-on development experience to deliver modern, efficient solutions. My expertise spans the entire development lifecycle—from database design and RESTful API architecture to dynamic frontend interfaces and real-time features.
+With a solid background in Information Systems from Benha University (graduating June 2026), alongside practical training from the National Telecommunication Institute (NTI), I combine robust backend architecture with modern frontend development. I also leverage data analysis, Machine Learning, and AI-driven development tools to build smarter, optimized system architectures.
 
 ## 🔗 Connect With Me
 
@@ -24,35 +24,29 @@ I combine academic knowledge with hands-on development experience to deliver mod
 
 ## 🛠️ Technical Expertise
 
-### MEAN Stack Core
-- **MongoDB:** Database design, aggregation pipelines, indexing, Mongoose ODM
-- **Express.js:** RESTful API development, middleware architecture, error handling
-- **Angular:** Component-based architecture, RxJS, reactive forms, routing, state management (NgRx)
-- **Node.js:** Asynchronous programming, event-driven architecture, performance optimization
+### Full Stack Core (MEAN & Beyond)
+- **Backend:** Node.js, Express.js, RESTful API Design, JWT Authentication, Role-Based Access Control (RBAC), Socket.io (Real-time), Mongoose ODM
+- **Frontend:** Angular, React (Basics), TypeScript, RxJS, NgRx State Management, Bootstrap 5, Responsive SPAs
+- **Databases & Caching:** MongoDB (NoSQL), SQL (PostgreSQL/MySQL), Redis Caching
 
-### Additional Skills
-**Backend:** JWT Authentication • Socket.io (Real-time) • API Security • Data Validation • File Uploads
+### DevOps, Tools & Data
+- **DevOps & Infrastructure:** Git & GitHub, Linux, Docker & Kubernetes (Learning), Cloud Operations
+- **Data Science & ML:** Python, Scikit-learn, Pandas, NumPy, Exploratory Data Analysis (EDA)
+- **Methodologies:** Clean Architecture, Software Architecture, OOP, Data Structures & Algorithms
+- **AI Integration:** AI-Driven Development (Gemini, Claude) for development workflow optimization
 
-**Frontend:** React • TypeScript • Responsive Design • SPA Development • HTTP Client Integration
+## 💼 Featured Projects
 
-**Languages:** JavaScript • TypeScript • Python • C++ • Java • PHP
+*   **3yadetak (Healthcare Management System):** Leading the initial architecture and development of an AI-powered healthcare platform using Node.js, Flutter, and MongoDB, utilizing Clean Architecture principles.
+*   **YouTube Clone Platform:** A video platform featuring chunk-based streaming, real-time notifications via Socket.io, and Redis caching to optimize performance.
+*   **Diabetes Risk Prediction System:** A machine learning pipeline in Python evaluating multiple models (SVM, Random Forest) over a 250K+ sample dataset with extensive EDA.
+*   **Audio Library & Streaming Platform:** A high-availability audio streaming backend engineered with Express.js and Multer handling concurrent file uploads and social interaction feeds.
 
-**Tools & DevOps:** Git & GitHub • Postman • npm/Yarn • Firebase • RESTful Design Patterns
+## 📜 Certifications
 
-## 💼 What I Offer
-
-- **End-to-End Development:** From database schema to polished user interfaces
-- **RESTful API Design:** Clean, documented, and scalable backend architecture
-- **Modern Frontend Development:** Responsive, interactive Angular applications
-- **Real-Time Features:** WebSocket implementation with Socket.io
-- **Code Quality:** Clean code practices, version control, and documentation
-
-## 📫 Let's Connect
-
-I'm actively seeking opportunities in full-stack development, software engineering internships, and collaborative projects. Whether you're looking to hire, collaborate, or discuss technology, I'd love to connect.
-
-**For recruiters:** Check out my [portfolio](https://muhammadabdelkader.github.io/My-Portfolio/) to see my projects in action, or reach out directly via [email](mailto:moha7med.abdelkader@gmail.com) or [LinkedIn](https://linkedin.com/in/muhammadabdelkader).
+*   **MEAN Stack Career Accelerator** – National Telecommunication Institute (NTI) | 210-Hour Intensive Program
+*   **National Certified Freelancer** – Information Technology Industry Development Agency (ITIDA)
 
 ---
 
-**Last Updated:** November 2025
+**Last Updated:** June 2026
